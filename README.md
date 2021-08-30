@@ -1,12 +1,9 @@
 ### Hi there, Thanks for visiting. 👋
 
 ![](https://komarev.com/ghpvc/?username=lakshaymeghlan)
-
 <!-- 
 **lakshaymeghlan/lakshaymeghlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-Here are some ideas to get you started:
-
+<!-- Here are some ideas to get you started: -->
 - 🔭 I’m currently working on my shopping e-commerce website which is GALACTIC
 - 🌱 I’m currently learning android development and backend
 - 💬 Ask me about designing, editing and crypto related stuff

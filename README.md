@@ -5,7 +5,7 @@
 **lakshaymeghlan/lakshaymeghlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started: -->
 - 🔭 I’m currently working on my shopping e-commerce website which is GALACTIC
-- 🌱 I’m currently learning android development and backend
+- 🌱 I’m currently learning android development and Data Science.
 - 💬 Ask me about designing, editing, programming and crypto related stuff
 - 📫 How to reach me: instagram - [Linkdin - Lakshay Meghlan](https://www.linkedin.com/in/lakshay-meghlan-77512321b/) , [Twiter - @LMeghlan](https://twitter.com/LMeghlan) , [Gmail- lakshaymeghlan24@gmail.com](https://mail.google.com/mail/u/1/#inbox)
 - ⚡ Fun fact: I'm into conspiracy and real life horror theories/stories and I spend my most of the time watching anime

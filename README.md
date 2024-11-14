@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Lakshay Meghlan</h1>
 <h3 align="center">Frontend Developer | MERN Stack Enthusiast | Building Interactive Web Experiences</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lakshaymeghlan&label=Profile%20Views&color=0e75b6&style=flat" alt="lakshaymeghlan" />
 </p>

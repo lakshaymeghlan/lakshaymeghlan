@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lakshay Meghlan</h1> <h3 align="center">Full Stack Developer | Passionate about Elegant and Functional Interfaces</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaymeghlan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
-🔭 Currently working on HRMS App
-🌱 Learning React Native to broaden my mobile development skills
-💬 Let's talk about MERN, Android, NFTs
-📫 Reach me at lakshaymeghlan24@gmail.com
+- 🔭 **Currently Working On**: HRMS Application
+- 🌱 **Currently Learning**: React Native
+- 💬 **Ask Me About**: MERN Stack, Android Development, NFTs
+- 📫 **Reach Me At**: [lakshaymeghlan24@gmail.com](mailto:lakshaymeghlan24@gmail.com)
 Connect with me:
 <p align="left"> <a href="https://linkedin.com/in/lakshay-meghlan-77512321b" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://www.leetcode.com/lakshaymeghlan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a> </p>
 Languages and Tools:

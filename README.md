@@ -1,3 +1,5 @@
+![logo](coding_banner.gif)
+
 <h1 align="center">Hello 👋, I'm Lakshay Meghlan</h1>
 <h3 align="center">Frontend Developer | MERN Stack Enthusiast | Building Interactive Web Experiences</h3>
 

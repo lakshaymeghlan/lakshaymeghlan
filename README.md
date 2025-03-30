@@ -1,7 +1,7 @@
 ![logo](coding_banner.gif)
 
 <h1 align="center">Hello 👋, I'm Lakshay Meghlan</h1>
-<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Building Interactive Web Experiences</h3>
+<h3 align="center">Full Stack Developer | MERN/MEAN Stack Enthusiast | Building Interactive Web Experiences</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lakshaymeghlan&label=Profile%20Views&color=0e75b6&style=flat" alt="lakshaymeghlan" />

@@ -7,9 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=lakshaymeghlan&label=Profile%20Views&color=0e75b6&style=flat" alt="lakshaymeghlan" />
 </p>
 
-- 🔭 **Currently Working On**: HRMS Application
-- 🌱 **Currently Learning**: React Native
-- 💬 **Ask Me About**: MERN Stack, Android Development, NFTs
+- 🔭 **Currently Working On**: Interview-assistant web Application
+- 🌱 **Currently Learning**: AWS, SQL
+- 💬 **Ask Me About**: MERN Stack, Android Development, Crypto , Stocks
 - 📫 **Reach Me At**: [lakshaymeghlan24@gmail.com](mailto:lakshaymeghlan24@gmail.com)
 
 ---

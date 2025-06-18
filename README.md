@@ -9,7 +9,7 @@
 
 - 🔭 **Currently Working On**: Interview-assistant web Application
 - 🌱 **Currently Learning**: AWS, SQL
-- 💬 **Ask Me About**: MERN Stack, Android Development, Crypto , Stocks
+- 💬 **Ask Me About**: Frontend Development, Backend Development, AI, Crypto , Stocks
 - 📫 **Reach Me At**: [lakshaymeghlan24@gmail.com](mailto:lakshaymeghlan24@gmail.com)
 
 ---

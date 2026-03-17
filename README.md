@@ -1,19 +1,21 @@
 <div align="center">
 
-<!-- ═══ HEADER BANNER ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:07070b,35:0e0e14,65:12121a,100:07070b&height=300&section=header&text=LAKSHAY%20MEGHLAN&fontSize=62&fontColor=c8a84b&fontAlignY=40&desc=AI%20Full%20Stack%20Developer%20%E2%80%94%20Building%20Agentic%20Systems&descAlignY=60&descSize=13&descColor=666680&animation=twinkling&stroke=c8a84b15&strokeWidth=1" width="100%"/>
+<!-- ██████████████████████████████████████████████████████████
+     ANIMATED HEADER — capsule-render venom type with twinkling
+     ██████████████████████████████████████████████████████████ -->
 
-<!-- ═══ TYPING ═══ -->
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=300&size=14&duration=2600&pause=800&color=c8a84b&center=true&vCenter=true&width=660&lines=Less+friction.+More+conversation.+More+execution.;Building+Radar+%E2%80%94+AI+Operating+System+for+Startups+%F0%9F%9A%80;signal+%E2%86%92+community+%E2%86%92+workflow+%E2%86%92+agents;MERN+%C2%B7+Gemini+AI+%C2%B7+LangChain+%C2%B7+AWS+%C2%B7+Agentic+Flows;Founders+shouldn%27t+fill+forms.+They+should+just+talk." alt="Typing"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0806,60:1a1200,100:000000&height=320&section=header&text=LAKSHAY%20MEGHLAN&fontSize=65&fontColor=c8a84b&fontAlignY=38&animation=twinkling&desc=AI%20Full%20Stack%20Developer%20%7C%20Building%20Agentic%20Systems%20%7C%20Founder%20of%20Radar&descSize=13&descAlignY=58&descColor=666666&stroke=c8a84b&strokeWidth=2"/>
 
-<br/><br/>
+<!-- ██████████ TYPING ANIMATION ██████████ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2400&pause=800&color=C8A84B&center=true&vCenter=true&multiline=false&width=700&lines=Less+friction.+More+conversation.+More+execution.;Building+Radar+%E2%80%94+AI+OS+for+startups+%F0%9F%9A%80;signal+%E2%86%92+community+%E2%86%92+workflow+%E2%86%92+agents;Founders+shouldn%27t+fill+forms.+They+should+just+talk.;MERN+%7C+Gemini+AI+%7C+LangChain+%7C+AWS+%7C+Agentic+Flows" alt="Typing SVG"/>
 
-<!-- ═══ STATUS BADGES ═══ -->
-![](https://img.shields.io/badge/%E2%97%8F_AVAILABLE-c8a84b?style=flat-square&labelColor=0e0e14&color=0e0e14)
-![](https://img.shields.io/badge/RADAR_PHASE_3-LIVE_⚡-2dd4bf?style=flat-square&labelColor=0e0e14&color=0e0e14)
-![](https://img.shields.io/badge/AI_FULL_STACK-DEVELOPER-c8a84b?style=flat-square&labelColor=0e0e14&color=0e0e14)
-![](https://img.shields.io/badge/DELHI-INDIA_🇮🇳-c8a84b?style=flat-square&labelColor=0e0e14&color=0e0e14)
-<img src="https://komarev.com/ghpvc/?username=lakshaymeghlan&style=flat-square&color=0e0e14&label=VIEWS&labelColor=0e0e14"/>
+<br/>
+
+<!-- ██████████ BADGE ROW ██████████ -->
+<a href="https://lakshays-portfolio.vercel.app/"><img src="https://img.shields.io/badge/%E2%97%8F%20AVAILABLE%20FOR%20WORK-%23c8a84b?style=for-the-badge&labelColor=0a0a0a&color=0a0a0a"/></a>
+<a href="https://lnkd.in/gGEBSPDs"><img src="https://img.shields.io/badge/RADAR%20PHASE%203-LIVE%20%E2%9A%A1-%232dd4bf?style=for-the-badge&labelColor=0a0a0a&color=0a0a0a"/></a>
+<img src="https://komarev.com/ghpvc/?username=lakshaymeghlan&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/github/followers/lakshaymeghlan?style=for-the-badge&color=0a0a0a&labelColor=0a0a0a&label=FOLLOWERS"/>
 
 </div>
 
@@ -21,11 +23,32 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════
-     PROFILE CLASS
-══════════════════════════════════════════════════ -->
+<div align="center">
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+```
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║    ██╗      █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗ ██╗   ██╗                       ║
+║    ██║     ██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔══██╗╚██╗ ██╔╝                       ║
+║    ██║     ███████║█████╔╝ ███████╗███████║███████║ ╚████╔╝                        ║
+║    ██║     ██╔══██║██╔═██╗ ╚════██║██╔══██║██╔══██║  ╚██╔╝                         ║
+║    ███████╗██║  ██║██║  ██╗███████║██║  ██║██║  ██║   ██║                          ║
+║    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝                          ║
+║                                                                                      ║
+║              AI Full Stack Developer  ·  Founder of Radar  ·  Delhi 🇮🇳             ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ██████████████████████████████████████████████████████████
+     ABOUT — Python class
+     ██████████████████████████████████████████████████████████ -->
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```python
 class LakshayMeghlan(AIFullStackDeveloper):
@@ -36,65 +59,75 @@ class LakshayMeghlan(AIFullStackDeveloper):
         self.org        = "@techchefz"
         self.contact    = "lakshaymeghlan24@gmail.com"
 
-        self.ai_stack   = ["Gemini AI", "LangChain", "OpenAI", "Prompt Eng."]
-        self.frontend   = ["React", "JavaScript", "HTML5", "CSS3", "Sass"]
-        self.backend    = ["Node.js", "Express.js", "Python"]
-        self.database   = ["MongoDB", "Firebase", "SQL"]
-        self.cloud      = ["AWS", "Vercel", "Git"]
+        self.ai_stack   = ["Gemini AI", "LangChain",
+                           "OpenAI", "Prompt Engineering"]
+        self.fullstack  = ["React", "Node.js", "Express",
+                           "MongoDB", "Firebase"]
+        self.cloud      = ["AWS", "Vercel", "Python", "Git"]
 
-        self.learning   = ["AWS", "SQL", "System Design", "AI Agents"]
+        self.learning   = ["AWS Certs", "System Design",
+                           "AI Agents", "MLOps"]
 
     def vision(self):
-        return "signal → community → workflow → agents"
+        # signal → community → workflow → agents
+        return "Less friction. More execution."
 
     def ask_me_about(self):
-        return ["AI", "Full Stack", "Startups", "Crypto", "Stocks"]
+        return ["AI", "Full Stack", "Startups",
+                "Crypto", "Stocks", "Agentic Systems"]
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- ══════════════════════════════════════════════════
-     RADAR — MAIN PROJECT
-══════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████
+     RADAR — THE PROJECT
+     ██████████████████████████████████████████████████████████ -->
 
-## &nbsp;◈ &nbsp;Current Mission
+## `◈` &nbsp; Current Mission &nbsp; `[ RADAR ]`
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   ⚡  R A D A R  —  AI Operating System for Startups   [ PHASE 3 LIVE ] │
-│                                                                         │
-│   Most startup platforms still work the old way:                        │
-│   Fill forms. Switch tabs. Enter everything manually. Repeat.           │
-│                                                                         │
-│   Radar is different — built around conversation instead of friction.   │
-│                                                                         │
-│   01 ── Conversational Hiring Agent                                     │
-│          Founders describe a role naturally. AI extracts structured     │
-│          job details. No forms. No friction. Just chat.                 │
-│                                                                         │
-│   02 ── Intelligent Inbox + Founder Messaging                           │
-│          Contextual outreach from startup cards.                        │
-│          discover → connect → act                                       │
-│                                                                         │
-│   03 ── Personalization Layer                                           │
-│          Upvote startups. Liked states. Curated profile.                │
-│          The ecosystem learns what you care about.                      │
-│                                                                         │
-│   04 ── Next: Agentic Ecosystem [IN PROGRESS]                           │
-│          AI agents inside Radar. WhatsApp flows to submit               │
-│          startups or apply to jobs — without opening the site.          │
-│                                                                         │
-│   Stack  React · Node.js · MongoDB · Express · Gemini AI · LangChain   │
-│   Link   https://lnkd.in/gGEBSPDs                                      │
-│                                                                         │
-│   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  Phase 3 shipped → Phase 4 building            │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ⚡  R A D A R  —  AI-Powered Operating System for Startups              ║
+║                                               [ PHASE 3 LIVE ]          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  The Problem:                                                            ║
+║  Most startup platforms still work the old way.                          ║
+║  Fill forms. Switch tabs. Enter everything manually. Repeat.             ║
+║                                                                          ║
+║  The Solution:                                                           ║
+║  What if founders could interact with a startup ecosystem                ║
+║  through conversation instead of friction?                               ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  01 ▸ Conversational Hiring Agent                                        ║
+║       Describe a role naturally → AI extracts structured job data        ║
+║       No forms. No friction. Just chat.                                  ║
+║                                                                          ║
+║  02 ▸ Intelligent Inbox + Founder Messaging                              ║
+║       Contextual outreach from startup cards                             ║
+║       discover → connect → act                                           ║
+║                                                                          ║
+║  03 ▸ Personalization Layer                                              ║
+║       Upvote startups · liked states · curated profile                   ║
+║       The ecosystem learns what you care about                           ║
+║                                                                          ║
+║  04 ▸ Next → Agentic Ecosystem [BUILDING NOW]                            ║
+║       AI agents inside Radar                                             ║
+║       WhatsApp flows to apply to jobs — without opening the site         ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  STACK   React · Node.js · MongoDB · Express · Gemini AI · LangChain    ║
+║  LINK    https://lnkd.in/gGEBSPDs                                       ║
+║  STATUS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  Phase 3 shipped → Phase 4 building      ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -102,98 +135,101 @@ class LakshayMeghlan(AIFullStackDeveloper):
 > *"Less dashboards. Less friction. Less form filling.*
 > *More conversation. More automation. More execution."*
 >
-> `signal` &nbsp;→&nbsp; `community` &nbsp;→&nbsp; `workflow` &nbsp;→&nbsp; **`agents`**
+> **`signal`** &nbsp;`→`&nbsp; **`community`** &nbsp;`→`&nbsp; **`workflow`** &nbsp;`→`&nbsp; **`agents`**
 
 ---
 
-<!-- ══════════════════════════════════════════════════
-     PROFICIENCY
-══════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████
+     SKILLS
+     ██████████████████████████████████████████████████████████ -->
 
-## &nbsp;◈ &nbsp;Proficiency
+## `◈` &nbsp; Proficiency Index
 
 <div align="center">
 
-| | Skill | |
-|---|---|---|
-| 🧠 | **AI / LLM Integration** — Gemini · OpenAI · LangChain · HuggingFace · Prompting | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░` &nbsp; **95%** |
-| ⚛ | **Frontend** — React · JavaScript · HTML5 · CSS3 · Sass · Bootstrap | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` &nbsp; **92%** |
-| ⚙ | **Backend** — Node.js · Express.js · REST APIs · Python | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` &nbsp; **90%** |
-| 🗄 | **Database** — MongoDB · Firebase · SQL | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` &nbsp; **90%** |
-| 🐍 | **Python + ML** — TensorFlow · HuggingFace · Data Engineering | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` &nbsp; **90%** |
-| ☁ | **AWS + Cloud** — EC2 · S3 · Lambda · Vercel · CI/CD | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` &nbsp; **88%** |
+| &nbsp; | Domain | Progress | Level |
+|:---:|---|---|:---:|
+| 🧠 | **AI / LLM Integration** — Gemini · OpenAI · LangChain · Prompt Eng. | `█████████████████████████████░` | **95%** |
+| ⚛ | **Frontend** — React · JavaScript · HTML5 · CSS3 · Sass | `████████████████████████████░░` | **92%** |
+| ⚙ | **Backend** — Node.js · Express.js · REST APIs · Python | `███████████████████████████░░░` | **90%** |
+| 🗄 | **Database** — MongoDB · Firebase · SQL | `███████████████████████████░░░` | **90%** |
+| 🐍 | **Python + ML** — TensorFlow · HuggingFace · Data | `███████████████████████████░░░` | **90%** |
+| ☁ | **AWS + Cloud** — EC2 · S3 · Lambda · Vercel · CI/CD | `██████████████████████████░░░░` | **88%** |
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════
-     STACK — dark unified badges
-══════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████
+     TECH STACK BADGES
+     ██████████████████████████████████████████████████████████ -->
 
-## &nbsp;◈ &nbsp;Stack
+## `◈` &nbsp; Tech Stack
 
 <div align="center">
 
-### `── AI Layer ──`
-![Gemini](https://img.shields.io/badge/Gemini_AI-07070b?style=flat-square&logo=google&logoColor=2dd4bf)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-07070b?style=flat-square&logo=openai&logoColor=c8a84b)
-![LangChain](https://img.shields.io/badge/LangChain-07070b?style=flat-square&logo=chainlink&logoColor=2dd4bf)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-07070b?style=flat-square&logo=huggingface&logoColor=c8a84b)
-![Python](https://img.shields.io/badge/Python-07070b?style=flat-square&logo=python&logoColor=c8a84b)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-07070b?style=flat-square&logo=tensorflow&logoColor=c8a84b)
+**`── 🧠 AI Intelligence Layer ──`**
 
-### `── Full Stack ──`
-![React](https://img.shields.io/badge/React-07070b?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-07070b?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-07070b?style=flat-square&logo=node.js&logoColor=6DA55F)
-![Express](https://img.shields.io/badge/Express-07070b?style=flat-square&logo=express&logoColor=eeeeee)
-![MongoDB](https://img.shields.io/badge/MongoDB-07070b?style=flat-square&logo=mongodb&logoColor=4ea94b)
-![Firebase](https://img.shields.io/badge/Firebase-07070b?style=flat-square&logo=firebase&logoColor=ffcd34)
-![HTML5](https://img.shields.io/badge/HTML5-07070b?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-07070b?style=flat-square&logo=css3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/Sass-07070b?style=flat-square&logo=sass&logoColor=cf649a)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-07070b?style=flat-square&logo=bootstrap&logoColor=8511fa)
+![Gemini](https://img.shields.io/badge/Gemini_AI-000000?style=flat-square&logo=google&logoColor=4285F4)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=c8a84b)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=2dd4bf)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=c8a84b)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 
-### `── Cloud & Tools ──`
-![AWS](https://img.shields.io/badge/AWS-07070b?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-07070b?style=flat-square&logo=vercel&logoColor=eeeeee)
-![Git](https://img.shields.io/badge/Git-07070b?style=flat-square&logo=git&logoColor=F05033)
-![GitHub](https://img.shields.io/badge/GitHub-07070b?style=flat-square&logo=github&logoColor=eeeeee)
-![Postman](https://img.shields.io/badge/Postman-07070b?style=flat-square&logo=postman&logoColor=FF6C37)
-![VS Code](https://img.shields.io/badge/VSCode-07070b?style=flat-square&logo=visual-studio-code&logoColor=0078d7)
+**`── ⚡ Full Stack ──`**
+
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=6DA55F)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=eeeeee)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=4ea94b)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=ffcd34)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/Sass-000000?style=flat-square&logo=sass&logoColor=cf649a)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=8511fa)
+
+**`── ☁ Cloud & Tools ──`**
+
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=eeeeee)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=eeeeee)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visual-studio-code&logoColor=0078d7)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════
-     GITHUB ANALYTICS
-══════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████
+     GITHUB STATS
+     ██████████████████████████████████████████████████████████ -->
 
-## &nbsp;◈ &nbsp;Analytics
+## `◈` &nbsp; Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshaymeghlan&show_icons=true&hide_border=true&bg_color=07070b&title_color=c8a84b&text_color=666680&icon_color=c8a84b&include_all_commits=true&count_private=true&ring_color=c8a84b"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=lakshaymeghlan&show_icons=true&hide_border=true&bg_color=000000&title_color=c8a84b&text_color=666666&icon_color=c8a84b&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaymeghlan&layout=compact&langs_count=6&hide_border=true&bg_color=07070b&title_color=c8a84b&text_color=666680"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaymeghlan&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=c8a84b&text_color=666666"/>
 
 <br/>
 
-<img width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshaymeghlan&hide_border=true&background=07070b&stroke=c8a84b15&ring=c8a84b&fire=c8a84b&currStreakNum=ede9f4&sideNums=ede9f4&currStreakLabel=c8a84b&sideLabels=c8a84b&dates=666680"/>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshaymeghlan&hide_border=true&background=000000&stroke=c8a84b20&ring=c8a84b&fire=c8a84b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c8a84b&sideLabels=c8a84b&dates=666666"/>
 
-</div>
+<br/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshaymeghlan&bg_color=07070b&color=c8a84b&line=c8a84b40&point=c8a84b&area=true&area_color=c8a84b0d&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshaymeghlan&bg_color=000000&color=c8a84b&line=c8a84b50&point=c8a84b&area=true&area_color=c8a84b10&hide_border=true" width="100%"/>
+
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════
+<!-- ██████████████████████████████████████████████████████████
      TROPHIES
-══════════════════════════════════════════════════ -->
+     ██████████████████████████████████████████████████████████ -->
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=lakshaymeghlan&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
@@ -201,59 +237,111 @@ class LakshayMeghlan(AIFullStackDeveloper):
 
 ---
 
-<!-- ══════════════════════════════════════════════════
-     ACTIVE PROCESSES
-══════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████
+     PROCESSES — terminal style
+     ██████████████████████████████████████████████████████████ -->
 
-## &nbsp;◈ &nbsp;Active Processes
+## `◈` &nbsp; Active Processes
 
 ```bash
-$ ps aux | grep lakshay
-
-  ●  radar_phase4_agents          CPU 99%   🔨  building — AI agents inside Radar
-  ●  whatsapp_flow_integration    CPU 80%   🤖  agentic — submit/apply without the site
-  ●  scale_ai_infra               CPU 45%   🔧  planning — beyond Gemini quotas
-  ●  learn_aws_sql_sysdesign      CPU 30%   📖  studying — depth: production-scale
-  ○  touch_grass                  CPU  1%   ⏸   suspended — always, no exceptions
+┌──────────────────────────────────────────────────────────────────┐
+│  $ ps aux | grep lakshay                                         │
+├────────────────────────────┬─────────┬──────────────────────────┤
+│  PROCESS                   │   CPU   │  STATUS                  │
+├────────────────────────────┼─────────┼──────────────────────────┤
+│  radar_phase4_agents       │   99%   │  🔨 building             │
+│  whatsapp_flow_integration │   80%   │  🤖 agentic              │
+│  scale_ai_infra            │   45%   │  🔧 planning             │
+│  learn_aws_sql_sysdesign   │   30%   │  📖 studying             │
+│  touch_grass               │    1%   │  ⏸  suspended (always)   │
+└────────────────────────────┴─────────┴──────────────────────────┘
 ```
 
 ---
 
-<!-- ══════════════════════════════════════════════════
+<!-- ██████████████████████████████████████████████████████████
      CONNECT
-══════════════════════════════════════════════════ -->
+     ██████████████████████████████████████████████████████████ -->
 
-## &nbsp;◈ &nbsp;Connect
+## `◈` &nbsp; Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-07070b?style=for-the-badge&logo=vercel&logoColor=c8a84b)](https://lakshays-portfolio.vercel.app/)
+<a href="https://lakshays-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logoColor=c8a84b&labelColor=000000"/>
+</a>
 &nbsp;
-[![Radar](https://img.shields.io/badge/Radar_App_⚡-07070b?style=for-the-badge&logo=google&logoColor=2dd4bf)](https://lnkd.in/gGEBSPDs)
+<a href="https://lnkd.in/gGEBSPDs">
+  <img src="https://img.shields.io/badge/⚡_RADAR_APP-000000?style=for-the-badge&logo=google&logoColor=2dd4bf&labelColor=000000"/>
+</a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-07070b?style=for-the-badge&logo=linkedin&logoColor=c8a84b)](https://linkedin.com/in/lakshay-meghlan-77512321b)
+<a href="https://linkedin.com/in/lakshay-meghlan-77512321b">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=c8a84b&labelColor=000000"/>
+</a>
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-07070b?style=for-the-badge&logo=x&logoColor=c8a84b)](https://twitter.com/lakshay_meghlan)
+<a href="https://twitter.com/lakshay_meghlan">
+  <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=c8a84b&labelColor=000000"/>
+</a>
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-07070b?style=for-the-badge&logo=gmail&logoColor=c8a84b)](mailto:lakshaymeghlan24@gmail.com)
+<a href="mailto:lakshaymeghlan24@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=c8a84b&labelColor=000000"/>
+</a>
 
 </div>
 
 ---
 
+<!-- ██████████████████████████████████████████████████████████
+     SNAKE CONTRIBUTION GRAPH
+     Add this by setting up GitHub Actions — instructions below
+     ██████████████████████████████████████████████████████████ -->
+
+<!-- ENABLE SNAKE: Create .github/workflows/snake.yml with:
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: lakshaymeghlan
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with: { target_branch: output, build_dir: dist }
+        env: { GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} }
+
+Then uncomment below: -->
+
+<!-- <div align="center">
+<img src="https://github.com/lakshaymeghlan/lakshaymeghlan/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div> -->
+
+---
+
 <div align="center">
 
 <br/>
 
-*"Less dashboards. Less friction.*
-*More conversation. More* ***execution.***"
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "Less dashboards. Less friction.                               ║
+║    More conversation. More execution."                           ║
+║                                                                  ║
+║                         — Lakshay Meghlan · Builder of Radar    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-&nbsp;
-
-`AI Developer` &nbsp;·&nbsp; `@techchefz` &nbsp;·&nbsp; `Delhi, India` &nbsp;·&nbsp; `Radar Phase 3 Live` &nbsp;·&nbsp; `signal → agents`
+`AI Developer` &nbsp;·&nbsp; `@techchefz` &nbsp;·&nbsp; `Delhi, India` &nbsp;·&nbsp; `Radar Phase 3 Live`
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070b,50:0e0e14,100:07070b&height=2&stroke=c8a84b&strokeWidth=1&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0806,100:000000&height=120&section=footer&text=signal%20%E2%86%92%20community%20%E2%86%92%20workflow%20%E2%86%92%20agents&fontSize=14&fontColor=c8a84b&fontAlignY=65&animation=twinkling"/>
 
 </div>

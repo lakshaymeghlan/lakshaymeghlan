@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hero](./hero.svg)
+![Hero](./coding_banner.gif)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2400&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=Less+friction.+More+conversation.+More+execution.;Building+Radar+%E2%80%94+AI+OS+for+Startups+%F0%9F%9A%80;signal+%E2%86%92+community+%E2%86%92+workflow+%E2%86%92+agents;Founders+shouldn%27t+fill+forms.+They+should+just+talk.;WhatsApp+flows.+AI+agents.+No+dashboards." alt="Typing"/>
 

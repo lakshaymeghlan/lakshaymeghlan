@@ -84,7 +84,7 @@ To:
 
 > **Goal:** Build India’s YC — but faster, open, AI-native.
 
-🔗 https://lnkd.in/gGEBSPDs
+🔗 https://radar-ai-launch.vercel.app/
 
 </details>
 
@@ -127,10 +127,10 @@ learning_mode          → scaling infra + AI systems
 
 <div align="center">
 
-[Portfolio](https://lakshays-portfolio.vercel.app) •
-[Radar](https://lnkd.in/gGEBSPDs) •
+[Portfolio](https://lakshay-portfolio-2026.vercel.app/) •
+[Radar](https://radar-ai-launch.vercel.app/) •
 [LinkedIn](https://linkedin.com/in/lakshay-meghlan-77512321b) •
-[Twitter](https://twitter.com/lakshay_meghlan)
+[X](https://x.com/lakshay_meghlan)
 
 </div>
 

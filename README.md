@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./tumblr_f44f2482ffa09c1d812a2103a1a6f0d3_2dfc2c67_1280.webp" width="100%" />
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040a,50:6c2bd9,100:0ea5e9&height=180&section=header&text=LAKSHAY%20MEGHLAN&fontSize=32&fontColor=a78bfa&animation=fadeIn&fontAlignY=35"/>
 
 <br/>

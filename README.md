@@ -1,39 +1,34 @@
 <div align="center">
 
-<img src="./hero.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040a,50:6c2bd9,100:0ea5e9&height=180&section=header&text=LAKSHAY%20MEGHLAN&fontSize=32&fontColor=a78bfa&animation=fadeIn&fontAlignY=35"/>
 
 <br/>
 
-<a href="https://radar-ai-launch.vercel.app/">
-  <img src="https://img.shields.io/badge/⚡_RADAR_LIVE-03040a?style=for-the-badge"/>
-</a>
-<a href="https://lakshay-portfolio-2026.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-03040a?style=for-the-badge"/>
-</a>
-<a href="https://www.linkedin.com/in/lakshay-meghlan-77512321b/">
-  <img src="https://img.shields.io/badge/LINKEDIN-03040a?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
-</a>
-<a href="https://x.com/lakshay_meghlan">
-  <img src="https://img.shields.io/badge/X-03040a?style=for-the-badge"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=750&lines=Intent+%E2%86%92+Agents+%E2%86%92+Execution;Building+Radar+%E2%80%94+AI+Infrastructure+for+Startups;Less+forms.+Less+dashboards.;More+conversation.+More+execution." />
+
+<br/>
+
+![](https://img.shields.io/badge/%E2%97%8F_AVAILABLE-03040a?style=for-the-badge\&labelColor=03040a)
+![](https://img.shields.io/badge/RADAR_PHASE_3_LIVE-03040a?style=for-the-badge\&logo=google\&logoColor=a78bfa\&labelColor=03040a)
+![](https://img.shields.io/badge/BUILDING_YC_FOR_INDIA-03040a?style=for-the-badge\&logo=rocket\&logoColor=38bdf8\&labelColor=03040a)
 
 </div>
 
 ---
 
-## ◈ System Identity
+## ◈ Identity
 
 ```ts
 const Lakshay = {
   role: "AI Full Stack Engineer",
+  building: "Radar — AI OS for Startups",
+  focus: ["Agents", "AI Systems", "Startup Infra"],
 
-  building: "Radar — AI Startup Ecosystem",
-
-  thesis:
-    "Software should execute intent — not demand interaction.",
+  belief:
+    "People shouldn’t use software.\nSoftware should execute intent.",
 
   mission:
-    "Building India's YC — AI-native, real-time, open"
+    "Building a YC-style ecosystem for India — AI-native"
 }
 ```
 
@@ -41,29 +36,51 @@ const Lakshay = {
 
 ## ◈ Radar
 
-<div align="center">
+<details>
+<summary><b>Expand → What I'm building</b></summary>
 
-<a href="https://radar-ai-launch.vercel.app/">
-  <img src="./coding_banner.gif" width="100%" />
-</a>
+<br/>
 
-</div>
+**Radar = Startup OS (not a website)**
 
-### What I’m building
+### Problem
 
-* AI startup discovery layer
-* Founder + builder ecosystem
-* Conversational workflows
-* Agent-based execution system
+* Too much noise in AI
+* Too much friction in tools
+* Too many dashboards
+
+### Shift
+
+From:
+→ forms
+→ manual workflows
+
+To:
+→ conversation
+→ agents
+→ execution
+
+### Live Layer
+
+* Startup discovery
+* AI signal tracking
+* Founder profiles
+* Messaging
+* Community
+
+### Next Layer
+
+* AI agents posting startups/jobs
+* WhatsApp execution flows
+* Auto-structured ecosystem graph
 
 ---
 
-## ◈ Vision
+> **Goal:** Build India’s YC — but faster, open, AI-native.
 
-User → *intent*
-System → *execution*
+🔗 https://lnkd.in/gGEBSPDs
 
-No forms. No dashboards. No friction.
+</details>
 
 ---
 
@@ -71,40 +88,43 @@ No forms. No dashboards. No friction.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,mongodb,aws,python" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,mongodb,aws,python,git" />
 
 </div>
 
 ---
 
-## ◈ Metrics
+## ◈ Live Signals
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=lakshaymeghlan&show_icons=true&hide_border=true&bg_color=020617&title_color=a78bfa&text_color=64748b"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lakshaymeghlan&show_icons=true&hide_border=true&bg_color=03040a&title_color=a78bfa&text_color=4b5563&icon_color=38bdf8"/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaymeghlan&layout=compact&hide_border=true&bg_color=020617&title_color=a78bfa&text_color=64748b"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaymeghlan&layout=compact&hide_border=true&bg_color=03040a&title_color=a78bfa&text_color=4b5563"/>
 
 </div>
 
 ---
 
-## ◈ Runtime
+## ◈ System State
 
 ```bash
-agents            → building
-whatsapp_layer    → integrating
-ecosystem_graph   → evolving
-execution_engine  → loading...
+radar_agents           → building autonomous layer
+whatsapp_flows         → intent → execution
+ecosystem_graph        → mapping startups + people
+learning_mode          → scaling infra + AI systems
 ```
 
 ---
 
-## ◈ Connect
+## ◈ Contact Layer
 
 <div align="center">
 
-<a href="https://radar-ai-launch.vercel.app/">Radar</a> • <a href="https://lakshay-portfolio-2026.vercel.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/lakshay-meghlan-77512321b/">LinkedIn</a> • <a href="https://x.com/lakshay_meghlan">X</a>
+[Portfolio](https://lakshays-portfolio.vercel.app) •
+[Radar](https://lnkd.in/gGEBSPDs) •
+[LinkedIn](https://linkedin.com/in/lakshay-meghlan-77512321b) •
+[Twitter](https://twitter.com/lakshay_meghlan)
 
 </div>
 
@@ -112,6 +132,6 @@ execution_engine  → loading...
 
 <div align="center">
 
-**Intent → Agents → Execution**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040a,50:6c2bd9,100:0ea5e9&height=100&section=footer&text=Intent+→+Agents+→+Execution&fontSize=14&fontColor=a78bfa"/>
 
 </div>

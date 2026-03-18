@@ -4,7 +4,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040a,50:6c2bd9,100:0ea5e9&height=180&section=header&text=LAKSHAY%20MEGHLAN&fontSize=32&fontColor=a78bfa&animation=fadeIn&fontAlignY=35"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=LAKSHAY+MEGHLAN" />
+</h1>
 
 <br/>
 

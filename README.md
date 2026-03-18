@@ -4,22 +4,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=750&lines=Intent+→+Agents+→+Execution;Building+Radar+—+AI+Startup+Ecosystem;Less+clicking.+More+doing.;From+noise+to+signal." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Radar+—+AI+Infrastructure+for+Startups;Less+friction.+More+execution.;From+intent+to+agents+to+outcomes." />
 
 <br/>
 
-<a href="https://radar-ai-launch.vercel.app/">
-  <img src="https://img.shields.io/badge/⚡_RADAR_LIVE-03040a?style=for-the-badge&logoColor=a78bfa"/>
-</a>
-<a href="https://lakshay-portfolio-2026.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-03040a?style=for-the-badge"/>
-</a>
-<a href="https://www.linkedin.com/in/lakshay-meghlan-77512321b/">
-  <img src="https://img.shields.io/badge/LINKEDIN-03040a?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
-</a>
-<a href="https://x.com/lakshay_meghlan">
-  <img src="https://img.shields.io/badge/X-03040a?style=for-the-badge&logo=x&logoColor=9ca3af"/>
-</a>
+![](https://img.shields.io/badge/%E2%97%8F_AVAILABLE-03040a?style=for-the-badge)
+![](https://img.shields.io/badge/RADAR_LIVE-03040a?style=for-the-badge\&logoColor=a78bfa)
+![](https://img.shields.io/badge/BUILDING_YC_FOR_INDIA-03040a?style=for-the-badge)
 
 </div>
 
@@ -28,88 +19,78 @@
 ## ◈ System Identity
 
 ```ts
-const Lakshay = {
-  building: "Radar — AI Startup Ecosystem",
-  
+const system = {
+  name: "Lakshay Meghlan",
+  role: "AI Full Stack Engineer",
+
+  building: "Radar — AI OS for Startups",
+
   thesis:
-    "People shouldn't use software.\nSoftware should execute intent.",
+    "Software should not be used.\nIt should execute intent.",
 
   direction:
-    "Building India's YC — AI-native, real-time, open",
-
-  focus: [
-    "Agentic Systems",
-    "AI Infrastructure",
-    "Startup Ecosystems"
-  ]
+    "India’s YC — but AI-native, real-time, and open"
 }
 ```
 
 ---
 
-## ◈ Radar (Live Product)
-
-<div align="center">
-
-<a href="https://radar-ai-launch.vercel.app/">
-  <img src="./coding_banner.gif" width="100%" />
-</a>
-
-</div>
-
-### What Radar is doing
-
-* Tracking real AI + startup signal
-* Connecting founders, builders, talent
-* Turning workflows into conversations
-* Moving toward fully agent-driven execution
-
----
-
-## ◈ Product Vision
+## ◈ Radar
 
 <details>
-<summary><b>Expand → Where this is going</b></summary>
+<summary><b>Expand → Architecture & Vision</b></summary>
 
 <br/>
 
-### Current Layer
+Radar is building a new layer:
 
-* Discovery
-* Community
-* Messaging
-* Jobs
+### Layer 1 → Signal
 
-### Next Layer
+Track real AI + startup movement
 
-* AI agents posting startups/jobs automatically
-* WhatsApp → action workflows
-* AI understanding intent → executing tasks
+### Layer 2 → Community
+
+Founders, builders, talent — connected
+
+### Layer 3 → Workflow
+
+Posting, hiring, discovery — simplified
+
+### Layer 4 → Agents
+
+Everything becomes automated
 
 ---
 
-### Endgame
+### End State
 
-User → *"I want to hire an AI engineer"*
-Radar → *job created, distributed, candidates matched*
+User → intent
+System → execution
 
-No UI friction. Only execution.
+No dashboards. No forms. No friction.
+
+🔗 https://lnkd.in/gGEBSPDs
 
 </details>
 
 ---
 
-## ◈ Tech Stack
+## ◈ Capabilities
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,mongodb,aws,python" />
+| System        | Function                |
+| ------------- | ----------------------- |
+| 🧠 AI Systems | LLMs, agents, workflows |
+| ⚡ Full Stack  | Next.js, Node, MongoDB  |
+| ☁ Infra       | AWS, Vercel             |
+| 🧩 Product    | Startup ecosystems      |
 
 </div>
 
 ---
 
-## ◈ Live Signals
+## ◈ Live Metrics
 
 <div align="center">
 
@@ -121,22 +102,25 @@ No UI friction. Only execution.
 
 ---
 
-## ◈ Runtime (Live State)
+## ◈ Runtime
 
 ```bash
-radar_agents        → building
+radar_agents        → initializing
 whatsapp_layer      → integrating
-startup_graph       → evolving
-execution_engine    → coming soon
+ecosystem_graph     → building
+scale_infra         → in progress
 ```
 
 ---
 
-## ◈ Connect
+## ◈ Interface
 
 <div align="center">
 
-<a href="https://radar-ai-launch.vercel.app/">Radar</a> • <a href="https://lakshay-portfolio-2026.vercel.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/lakshay-meghlan-77512321b/">LinkedIn</a> • <a href="https://x.com/lakshay_meghlan">X</a>
+[Portfolio](https://lakshay-portfolio-2026.vercel.app/) •
+[Radar](https://radar-ai-launch.vercel.app/) •
+[LinkedIn](https://linkedin.com/in/lakshay-meghlan-77512321b) •
+[X](https://x.com/lakshay_meghlan)
 
 </div>
 
@@ -144,6 +128,6 @@ execution_engine    → coming soon
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040a,50:6c2bd9,100:0ea5e9&height=100&section=footer&text=Intent+→+Agents+→+Execution&fontSize=14&fontColor=a78bfa"/>
+**Intent → Agents → Execution**
 
 </div>

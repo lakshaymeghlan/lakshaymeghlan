@@ -1,15 +1,11 @@
 <div align="center">
 
-<img src="./hero.svg" width="100%" alt="hero"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+Radar+—+AI+Infrastructure+for+Startups;Less+friction.+More+execution.;Intent+→+Agents+→+Outcomes" />
+<img src="./hero.svg" width="100%" />
 
 <br/>
 
 <a href="https://radar-ai-launch.vercel.app/">
-  <img src="https://img.shields.io/badge/⚡_RADAR_LIVE-03040a?style=for-the-badge&logo=vercel&logoColor=a78bfa"/>
+  <img src="https://img.shields.io/badge/⚡_RADAR_LIVE-03040a?style=for-the-badge"/>
 </a>
 <a href="https://lakshay-portfolio-2026.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_PORTFOLIO-03040a?style=for-the-badge"/>
@@ -18,7 +14,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-03040a?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
 </a>
 <a href="https://x.com/lakshay_meghlan">
-  <img src="https://img.shields.io/badge/X-03040a?style=for-the-badge&logo=x&logoColor=9ca3af"/>
+  <img src="https://img.shields.io/badge/X-03040a?style=for-the-badge"/>
 </a>
 
 </div>
@@ -28,16 +24,15 @@
 ## ◈ System Identity
 
 ```ts
-const system = {
-  name: "Lakshay Meghlan",
+const Lakshay = {
   role: "AI Full Stack Engineer",
 
   building: "Radar — AI Startup Ecosystem",
 
   thesis:
-    "Software should not be used.\nIt should execute intent.",
+    "Software should execute intent — not demand interaction.",
 
-  direction:
+  mission:
     "Building India's YC — AI-native, real-time, open"
 }
 ```
@@ -46,64 +41,49 @@ const system = {
 
 ## ◈ Radar
 
-<details>
-<summary><b>Expand → Architecture & Vision</b></summary>
+<div align="center">
 
-<br/>
+<a href="https://radar-ai-launch.vercel.app/">
+  <img src="./coding_banner.gif" width="100%" />
+</a>
 
-### Layer 1 → Signal
+</div>
 
-Tracking real AI + startup movement
+### What I’m building
 
-### Layer 2 → Community
-
-Founders, builders, talent — connected
-
-### Layer 3 → Workflow
-
-Posting, hiring, discovery — simplified
-
-### Layer 4 → Agents
-
-Everything becomes automated
+* AI startup discovery layer
+* Founder + builder ecosystem
+* Conversational workflows
+* Agent-based execution system
 
 ---
 
-### End State
+## ◈ Vision
 
-User → intent
-System → execution
+User → *intent*
+System → *execution*
 
-No dashboards. No forms. No friction.
-
-🔗 https://radar-ai-launch.vercel.app/
-
-</details>
+No forms. No dashboards. No friction.
 
 ---
 
-## ◈ Capabilities
+## ◈ Stack
 
 <div align="center">
 
-| System        | Function                |
-| ------------- | ----------------------- |
-| 🧠 AI Systems | LLMs, agents, workflows |
-| ⚡ Full Stack  | Next.js, Node, MongoDB  |
-| ☁ Infra       | AWS, Vercel             |
-| 🧩 Product    | Startup ecosystems      |
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,mongodb,aws,python" />
 
 </div>
 
 ---
 
-## ◈ Live Metrics
+## ◈ Metrics
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=lakshaymeghlan&show_icons=true&hide_border=true&bg_color=03040a&title_color=a78bfa&text_color=6b7280"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=lakshaymeghlan&show_icons=true&hide_border=true&bg_color=020617&title_color=a78bfa&text_color=64748b"/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaymeghlan&layout=compact&hide_border=true&bg_color=03040a&title_color=a78bfa&text_color=6b7280"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaymeghlan&layout=compact&hide_border=true&bg_color=020617&title_color=a78bfa&text_color=64748b"/>
 
 </div>
 
@@ -112,15 +92,15 @@ No dashboards. No forms. No friction.
 ## ◈ Runtime
 
 ```bash
-radar_agents        → building
-whatsapp_layer      → integrating
-ecosystem_graph     → evolving
-execution_engine    → coming soon
+agents            → building
+whatsapp_layer    → integrating
+ecosystem_graph   → evolving
+execution_engine  → loading...
 ```
 
 ---
 
-## ◈ Interface
+## ◈ Connect
 
 <div align="center">
 

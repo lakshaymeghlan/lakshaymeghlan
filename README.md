@@ -1,16 +1,25 @@
 <div align="center">
 
-<img src="./hero.svg" width="100%" />
+<img src="./hero.svg" width="100%" alt="hero"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Radar+—+AI+Infrastructure+for+Startups;Less+friction.+More+execution.;From+intent+to+agents+to+outcomes." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+Radar+—+AI+Infrastructure+for+Startups;Less+friction.+More+execution.;Intent+→+Agents+→+Outcomes" />
 
 <br/>
 
-![](https://img.shields.io/badge/%E2%97%8F_AVAILABLE-03040a?style=for-the-badge)
-![](https://img.shields.io/badge/RADAR_LIVE-03040a?style=for-the-badge\&logoColor=a78bfa)
-![](https://img.shields.io/badge/BUILDING_YC_FOR_INDIA-03040a?style=for-the-badge)
+<a href="https://radar-ai-launch.vercel.app/">
+  <img src="https://img.shields.io/badge/⚡_RADAR_LIVE-03040a?style=for-the-badge&logo=vercel&logoColor=a78bfa"/>
+</a>
+<a href="https://lakshay-portfolio-2026.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-03040a?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/lakshay-meghlan-77512321b/">
+  <img src="https://img.shields.io/badge/LINKEDIN-03040a?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
+</a>
+<a href="https://x.com/lakshay_meghlan">
+  <img src="https://img.shields.io/badge/X-03040a?style=for-the-badge&logo=x&logoColor=9ca3af"/>
+</a>
 
 </div>
 
@@ -23,13 +32,13 @@ const system = {
   name: "Lakshay Meghlan",
   role: "AI Full Stack Engineer",
 
-  building: "Radar — AI OS for Startups",
+  building: "Radar — AI Startup Ecosystem",
 
   thesis:
     "Software should not be used.\nIt should execute intent.",
 
   direction:
-    "India’s YC — but AI-native, real-time, and open"
+    "Building India's YC — AI-native, real-time, open"
 }
 ```
 
@@ -42,11 +51,9 @@ const system = {
 
 <br/>
 
-Radar is building a new layer:
-
 ### Layer 1 → Signal
 
-Track real AI + startup movement
+Tracking real AI + startup movement
 
 ### Layer 2 → Community
 
@@ -69,7 +76,7 @@ System → execution
 
 No dashboards. No forms. No friction.
 
-🔗 https://lnkd.in/gGEBSPDs
+🔗 https://radar-ai-launch.vercel.app/
 
 </details>
 
@@ -105,10 +112,10 @@ No dashboards. No forms. No friction.
 ## ◈ Runtime
 
 ```bash
-radar_agents        → initializing
+radar_agents        → building
 whatsapp_layer      → integrating
-ecosystem_graph     → building
-scale_infra         → in progress
+ecosystem_graph     → evolving
+execution_engine    → coming soon
 ```
 
 ---
@@ -117,10 +124,7 @@ scale_infra         → in progress
 
 <div align="center">
 
-[Portfolio](https://lakshay-portfolio-2026.vercel.app/) •
-[Radar](https://radar-ai-launch.vercel.app/) •
-[LinkedIn](https://linkedin.com/in/lakshay-meghlan-77512321b) •
-[X](https://x.com/lakshay_meghlan)
+<a href="https://radar-ai-launch.vercel.app/">Radar</a> • <a href="https://lakshay-portfolio-2026.vercel.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/lakshay-meghlan-77512321b/">LinkedIn</a> • <a href="https://x.com/lakshay_meghlan">X</a>
 
 </div>
 

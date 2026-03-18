@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./tumblr_f44f2482ffa09c1d812a2103a1a6f0d3_2dfc2c67_1280.webp" width="100%" />
+<img src="./fbc6f31bd3b84159470b973aca7e0f97.gif" width="100%" />
 
 <br/>
 

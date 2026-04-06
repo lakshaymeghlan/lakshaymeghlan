@@ -100,18 +100,6 @@ To:
 
 ---
 
-## ◈ Live Signals
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lakshaymeghlan&show_icons=true&hide_border=true&bg_color=03040a&title_color=a78bfa&text_color=4b5563&icon_color=38bdf8"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaymeghlan&layout=compact&hide_border=true&bg_color=03040a&title_color=a78bfa&text_color=4b5563"/>
-
-</div>
-
----
-
 ## ◈ System State
 
 ```bash

@@ -10,12 +10,12 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=750&lines=Intent+%E2%86%92+Agents+%E2%86%92+Execution;Building+Radar+%E2%80%94+AI+Infrastructure+for+Startups;Less+forms.+Less+dashboards.;More+conversation.+More+execution." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=750&lines=Intent+%E2%86%92+Agents+%E2%86%92+Execution;Building+Builds+%E2%80%94+AI+Infrastructure+for+Startups;Less+forms.+Less+dashboards.;More+conversation.+More+execution." />
 
 <br/>
 
 ![](https://img.shields.io/badge/%E2%97%8F_AVAILABLE-03040a?style=for-the-badge\&labelColor=03040a)
-![](https://img.shields.io/badge/RADAR_PHASE_3_LIVE-03040a?style=for-the-badge\&logo=google\&logoColor=a78bfa\&labelColor=03040a)
+![](https://img.shields.io/badge/Builds_PHASE_3_LIVE-03040a?style=for-the-badge\&logo=google\&logoColor=a78bfa\&labelColor=03040a)
 ![](https://img.shields.io/badge/BUILDING_YC_FOR_INDIA-03040a?style=for-the-badge\&logo=rocket\&logoColor=38bdf8\&labelColor=03040a)
 
 </div>
@@ -27,7 +27,7 @@
 ```ts
 const Lakshay = {
   role: "AI Full Stack Engineer",
-  building: "Radar — AI OS for Startups",
+  building: "Builds — AI OS for Startups",
   focus: ["Agents", "AI Systems", "Startup Infra"],
 
   belief:
@@ -40,14 +40,14 @@ const Lakshay = {
 
 ---
 
-## ◈ Radar
+## ◈ Builds
 
 <details>
 <summary><b>Expand → What I'm building</b></summary>
 
 <br/>
 
-**Radar = Startup OS (not a website)**
+**Builds = Startup OS (not a website)**
 
 ### Problem
 
@@ -84,7 +84,7 @@ To:
 
 > **Goal:** Build India’s YC — but faster, open, AI-native.
 
-🔗 https://radar-ai-launch.vercel.app/
+🔗 https://Builds-ai-launch.vercel.app/
 
 </details>
 
@@ -115,7 +115,7 @@ To:
 ## ◈ System State
 
 ```bash
-radar_agents           → building autonomous layer
+Builds_agents           → building autonomous layer
 whatsapp_flows         → intent → execution
 ecosystem_graph        → mapping startups + people
 learning_mode          → scaling infra + AI systems
@@ -128,7 +128,7 @@ learning_mode          → scaling infra + AI systems
 <div align="center">
 
 [Portfolio](https://lakshay-portfolio-2026.vercel.app/) •
-[Radar](https://radar-ai-launch.vercel.app/) •
+[Builds](https://Builds-ai-launch.vercel.app/) •
 [LinkedIn](https://linkedin.com/in/lakshay-meghlan-77512321b) •
 [X](https://x.com/lakshay_meghlan)
 

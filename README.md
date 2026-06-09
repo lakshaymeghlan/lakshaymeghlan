@@ -78,23 +78,43 @@ End-to-end product builds — from data layer to polished UI.
 
 ---
 
-## ◈ GitHub Stats
+## ◈ What I'm Building
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshaymeghlan&theme=2077" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshaymeghlan&theme=2077" />
+<details>
+<summary><b>▸ Software for Agents</b></summary>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshaymeghlan&theme=2077" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lakshaymeghlan&theme=2077&utcOffset=5.5" />
+The next billion users of the internet won't be people — they'll be agents.
+
+Agents are already browsing the web, running research, making purchases, and operating the tools companies run on. But they're doing it on top of software designed for a human clicking buttons in a browser — slow, inconsistent, and brittle the moment a layout shifts.
+
+Agents need a different foundation. Not forms, buttons, and dashboards, but **machine-readable interfaces** — APIs, MCP servers, and CLIs — paired with documentation thorough enough that an agent can discover a tool, sign up, and start using it programmatically, with no human in the loop.
+
+That means almost every category of software people use today has to be rebuilt for agents. I don't think that rebuild comes from incumbents bolting "AI" onto what they already have — it comes from building for agents as **first-class citizens** from the first commit.
+
+That's the layer I'm building toward: infrastructure where intent becomes execution, and the software an agent depends on is as fast and reliable as the agent itself.
+
+</details>
+
+<details>
+<summary><b>▸ Small Teams, Massive Customers</b></summary>
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=lakshaymeghlan&hide_border=true&background=03040a&ring=a78bfa&fire=38bdf8&currStreakLabel=a78bfa&sideLabels=ffffff&dates=8b8b8b&currStreakNum=ffffff&sideNums=ffffff" />
+The old advice was to sell to other startups — smart, forward-thinking users who help you shape the product. That still works. But AI just opened a door that was closed to small teams for decades: **selling to the largest companies in the world.**
 
-</div>
+Three things changed at once.
+
+The people running these companies aren't hiding behind procurement walls anymore — they're actively looking for teams that can bend AI to solve real problems, and they'll take the first meeting.
+
+A 2–3 person team can now ship a thoughtful, deeply-considered product to a large org in **months, not years**. The "stay in stealth until we reach feature parity" playbook is dead.
+
+And leaders now understand exactly where AI should create value internally, what to outsource, and what happens to them if they don't move.
+
+I build with that reality in mind — products small enough to ship fast, sharp enough that a serious company finds them useful before the ink is dry.
+
+</details>
 
 ---
 

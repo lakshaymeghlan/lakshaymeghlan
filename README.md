@@ -82,8 +82,13 @@ End-to-end product builds — from data layer to polished UI.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshaymeghlan&show_icons=true&hide_border=true&bg_color=03040a&title_color=a78bfa&icon_color=38bdf8&text_color=ffffff&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaymeghlan&layout=compact&hide_border=true&bg_color=03040a&title_color=a78bfa&text_color=ffffff&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshaymeghlan&theme=2077" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshaymeghlan&theme=2077" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshaymeghlan&theme=2077" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lakshaymeghlan&theme=2077&utcOffset=5.5" />
 
 <br/>
 

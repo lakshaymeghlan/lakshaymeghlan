@@ -8,15 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=LAKSHAY+MEGHLAN" />
 </h1>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=750&lines=Intent+%E2%86%92+Agents+%E2%86%92+Execution;Building+Builds+%E2%80%94+AI+Infrastructure+for+Startups;Less+forms.+Less+dashboards.;More+conversation.+More+execution." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=780&lines=AI+Full+Stack+Engineer;Intent+%E2%86%92+Agents+%E2%86%92+Execution;Designing+systems+that+execute%2C+not+just+respond.;Less+forms.+Less+dashboards.+More+conversation." />
 
 <br/>
+<br/>
 
-![](https://img.shields.io/badge/%E2%97%8F_AVAILABLE-03040a?style=for-the-badge\&labelColor=03040a)
-![](https://img.shields.io/badge/Builds_PHASE_3_LIVE-03040a?style=for-the-badge\&logo=google\&logoColor=a78bfa\&labelColor=03040a)
-![](https://img.shields.io/badge/BUILDING_YC_FOR_INDIA-03040a?style=for-the-badge\&logo=rocket\&logoColor=38bdf8\&labelColor=03040a)
+![](https://img.shields.io/badge/%E2%97%8F_OPEN_TO_WORK-03040a?style=for-the-badge&labelColor=03040a&color=22c55e)
+![](https://img.shields.io/badge/AI_SYSTEMS-03040a?style=for-the-badge&logo=openai&logoColor=a78bfa&labelColor=03040a)
+![](https://img.shields.io/badge/BASED_IN_INDIA-03040a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8&labelColor=03040a)
 
 </div>
 
@@ -27,66 +26,45 @@
 ```ts
 const Lakshay = {
   role: "AI Full Stack Engineer",
-  building: "Builds — AI OS for Startups",
-  focus: ["Agents", "AI Systems", "Startup Infra"],
+  focus: ["AI Agents", "LLM Systems", "Full Stack Infra"],
 
   belief:
-    "People shouldn’t use software.\nSoftware should execute intent.",
+    "People shouldn't fight software.\nSoftware should execute intent.",
 
-  mission:
-    "Building a YC-style ecosystem for India — AI-native"
+  currently:
+    "Designing AI-native systems that turn conversation into action.",
 }
 ```
 
 ---
 
-## ◈ Builds
+## ◈ What I Do
 
-<details>
-<summary><b>Expand → What I'm building</b></summary>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<br/>
+**🤖 AI Agents**
 
-**Builds = Startup OS (not a website)**
+Autonomous, tool-using agents that plan and execute multi-step workflows.
 
-### Problem
+</td>
+<td width="33%" valign="top">
 
-* Too much noise in AI
-* Too much friction in tools
-* Too many dashboards
+**⚡ LLM Systems**
 
-### Shift
+RAG pipelines, structured output, evals, and production-grade orchestration.
 
-From:
-→ forms
-→ manual workflows
+</td>
+<td width="33%" valign="top">
 
-To:
-→ conversation
-→ agents
-→ execution
+**🛠️ Full Stack**
 
-### Live Layer
+End-to-end product builds — from data layer to polished UI.
 
-* Startup discovery
-* AI signal tracking
-* Founder profiles
-* Messaging
-* Community
-
-### Next Layer
-
-* AI agents posting startups/jobs
-* WhatsApp execution flows
-* Auto-structured ecosystem graph
-
----
-
-> **Goal:** Build India’s YC — but faster, open, AI-native.
-
-🔗 https://Builds-ai-launch.vercel.app/
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -94,31 +72,34 @@ To:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,mongodb,aws,python,git" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,mongodb,postgres,aws,docker,git,tailwind,vercel" />
 
 </div>
 
 ---
 
-## ◈ System State
-
-```bash
-Builds_agents           → building autonomous layer
-whatsapp_flows         → intent → execution
-ecosystem_graph        → mapping startups + people
-learning_mode          → scaling infra + AI systems
-```
-
----
-
-## ◈ Contact Layer
+## ◈ GitHub Stats
 
 <div align="center">
 
-[Portfolio](https://lakshay-portfolio-2026.vercel.app/) •
-[Builds](https://Builds-ai-launch.vercel.app/) •
-[LinkedIn](https://linkedin.com/in/lakshay-meghlan-77512321b) •
-[X](https://x.com/lakshay_meghlan)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshaymeghlan&show_icons=true&hide_border=true&bg_color=03040a&title_color=a78bfa&icon_color=38bdf8&text_color=ffffff&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaymeghlan&layout=compact&hide_border=true&bg_color=03040a&title_color=a78bfa&text_color=ffffff&langs_count=8" />
+
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=lakshaymeghlan&hide_border=true&background=03040a&ring=a78bfa&fire=38bdf8&currStreakLabel=a78bfa&sideLabels=ffffff&dates=8b8b8b&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+---
+
+## ◈ Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-03040a?style=for-the-badge&logo=vercel&logoColor=a78bfa&labelColor=03040a)](https://lakshay-portfolio-2026.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-03040a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=03040a)](https://linkedin.com/in/lakshay-meghlan-77512321b)
+[![X](https://img.shields.io/badge/X-03040a?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=03040a)](https://x.com/lakshay_meghlan)
 
 </div>
 

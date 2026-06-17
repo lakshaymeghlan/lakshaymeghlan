@@ -38,6 +38,20 @@ const Lakshay = {
 
 ---
 
+## ◈ Shipping
+
+<div align="center">
+
+[![arch-score](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/lakshaymeghlan/arch-score/arch-score-badge/arch-score-badge.json&style=for-the-badge&labelColor=03040a)](https://github.com/lakshaymeghlan/arch-score)
+[![npm](https://img.shields.io/npm/v/arch-score?style=for-the-badge&logo=npm&logoColor=a78bfa&labelColor=03040a&color=a78bfa)](https://www.npmjs.com/package/arch-score)
+[![GitHub Marketplace](https://img.shields.io/badge/GitHub-Marketplace-03040a?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=03040a&color=38bdf8)](https://github.com/marketplace/actions/arch-score)
+
+</div>
+
+**[arch-score](https://github.com/lakshaymeghlan/arch-score)** — a language-agnostic CLI + GitHub Action that scores how well *any* project follows modern system-design standards, recommends folder structures, and emits AI-assistant guidance files. Live on npm and the GitHub Marketplace. The green badge above is its own self-score, updated automatically on every push.
+
+---
+
 ## ◈ What I Do
 
 <table>

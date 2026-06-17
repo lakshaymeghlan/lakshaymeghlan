@@ -48,7 +48,7 @@ const Lakshay = {
 
 </div>
 
-**[arch-score](https://github.com/lakshaymeghlan/arch-score)** — a language-agnostic CLI + GitHub Action that scores how well *any* project follows modern system-design standards, recommends folder structures, and emits AI-assistant guidance files. Live on npm and the GitHub Marketplace. The green badge above is its own self-score, updated automatically on every push.
+**[arch-score](https://github.com/lakshaymeghlan/arch-score)** — a language-agnostic CLI + GitHub Action that scores how well *any* codebase follows modern system-design standards, then hands you the concrete fixes. Live on **npm** & the **GitHub Marketplace**; the green badge is its own auto-updated self-score.
 
 ---
 

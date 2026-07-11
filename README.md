@@ -17,6 +17,10 @@
 ![](https://img.shields.io/badge/AI_SYSTEMS-03040a?style=for-the-badge&logo=openai&logoColor=a78bfa&labelColor=03040a)
 ![](https://img.shields.io/badge/BASED_IN_INDIA-03040a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8&labelColor=03040a)
 
+<br/>
+
+<img src="./neofetch_card.png" width="820" alt="lakshay@meghlan" />
+
 </div>
 
 ---

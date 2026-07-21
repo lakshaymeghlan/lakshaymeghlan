@@ -6,7 +6,7 @@ from PIL import Image
 from rembg import remove
 
 RAMP = " .`:-=+*cs#%@"
-COLS = 150
+COLS = 80       # small: fits a two-column layout without scrolling
 CLAHE_CLIP = 2.6
 GAMMA = 2.0     # tuned for public/ascii_face.png (flat night lighting)
 CROP_BOTTOM = 0.0      # trim this fraction off the bottom

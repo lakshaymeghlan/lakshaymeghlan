@@ -12,7 +12,7 @@
 
 Building AI-native systems that turn conversation into action — autonomous agents, LLM pipelines, and the full-stack infra behind them.
 
-**Now shipping** — [arch-score](https://github.com/lakshaymeghlan/arch-score): a CLI + GitHub Action that scores any codebase against modern system-design standards. Live on npm & the GitHub Marketplace.
+**Now shipping** — [Cross-check](https://github.com/lakshaymeghlan/CrossCheck): crosscheck is CI (continuous integration testing) for MCP servers. It catches when a schema change or a new AI-model release silently breaks a company's agent-facing tools — before their users' agents hit the failure in production.
 
 **Stack** — `TypeScript` `React` `Next.js` `Node` `Python` `Postgres` `AWS` `Docker`
 

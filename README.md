@@ -19,7 +19,7 @@
 
 <br/>
 
-<img src="./neofetch_card.png" width="820" alt="lakshay@meghlan" />
+<img src="./ascii.svg" width="860" alt="lakshay meghlan — ascii portrait" />
 
 </div>
 

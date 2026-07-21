@@ -12,7 +12,7 @@
 
 shipping LLM + agent systems end-to-end (0→1 builder)
 
-**Now shipping** — [Cross-check](https://github.com/lakshaymeghlan/CrossCheck): crosscheck is CI (continuous integration testing) for MCP servers. It catches when a schema change or a new AI-model release silently breaks a company's agent-facing tools — before their users' agents hit the failure in production.
+**Now shipping** — [Cross-check](https://github.com/lakshaymeghlan/CrossCheck) : is CI (continuous integration testing) for MCP servers. It catches when a schema change or a new AI-model release silently breaks a company's agent-facing tools — before their users' agents hit the failure in production.
 
 **Stack** — `TypeScript` `React` `Next.js` `Node` `Python` `Postgres` `AWS` `Docker`
 
